@@ -1,6 +1,7 @@
 <h1>
-  Hi there, I'm Ivan. 🇺🇦
+  Hi there, I'm Ivan
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <img src = "https://em-content.zobj.net/source/apple/354/flag-ukraine_1f1fa-1f1e6.png" height="32"/>
 </h1>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webfryingpan&theme=solarized_dark)
