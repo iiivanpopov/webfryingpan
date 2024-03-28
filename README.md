@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, NestJS, TailwindCSS**
 
-- 📫 Discord: **@fryingpan__**
+- 📫 Discord: **@archfryingpan**
 
 <br/>
 
