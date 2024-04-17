@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Next-RPC](https://github.com/webfryingpan/next-rpc)
 
-- 🌱 I’m currently learning **NextJS, NestJS, TailwindCSS**
+- 🌱 I’m currently learning **React, NestJS, TailwindCSS**
 
 - 📫 Discord: **@archfryingpan**
 
